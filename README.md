@@ -5,6 +5,12 @@ VueJs | Materialize
 
 ![vue-api](https://user-images.githubusercontent.com/33843231/81558483-9107f880-93af-11ea-8c11-bcf7e10d9b03.png)
 
+## Command
+- vue create vue-api <br>
+- npm run serve <br>
+- npm vue-router <br>
+- npm install materialize-css@next <br>
+
 ## App.vue
 ```vue
 <template>
